@@ -20,8 +20,8 @@ main:
   - title: #"Blog Posts"
     url: #/year-archive/
     
-  - title: "Footprint 足迹"
+  - title: #"Footprint 足迹"
     url: /markdown/
 
-  - title: "CV 简历"
+  - title: #"CV 简历"
     url: /cv/
