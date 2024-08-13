@@ -14,14 +14,14 @@ main:
   - title: "Talks 学术演讲"
     url: /talks/    
     
-  - title: #"Portfolio"
-    url: #/portfolio/
+  - title: "Projects 科研项目"
+    url: /portfolio/
         
   - title: #"Blog Posts"
     url: #/year-archive/
     
-  - title: "CV 简历"
-    url: /cv/
-    
   - title: "Global Footprint 全球足迹"
     url: /markdown/
+
+   - title: "CV 简历"
+    url: /cv/
