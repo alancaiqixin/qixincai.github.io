@@ -1,7 +1,7 @@
 title: "China’s Basic Public Service Accessibility Report (2021)"
 collection: publications
 category: manuscripts
-permalink: #https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?contentId=13615841&siteId=14&contentType=literature
+#permalink: https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?contentId=13615841&siteId=14&contentType=literature
 date: 2021-12-01
 venue: 'Social Sciences Literature Press'
 paperurl: 'https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?contentId=13615841&siteId=14&contentType=literature'
