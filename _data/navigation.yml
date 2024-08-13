@@ -10,12 +10,12 @@ main:
 
   - title: "Teaching 教学"
     url: /teaching/  
-
-  - title: "Talks 学术演讲"
-    url: /talks/    
     
   - title: "Projects 科研项目"
     url: /portfolio/
+
+  - title: "Talks 学术演讲"
+    url: /talks/    
         
   - title: #"Blog Posts"
     url: #/year-archive/
