@@ -1,7 +1,7 @@
 ---
-title: "Qixin Cai"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Intergenerational Reciprocity, Old-age Poverty, and Subjective Well-being From and Beyond the Perspective of Family Structure Heterogeneity"
+excerpt: #"Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Funded by China Scholarship Council(202206360122), Expected completion date: Jun 2025
