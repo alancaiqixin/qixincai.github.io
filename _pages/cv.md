@@ -183,7 +183,6 @@ Publications
 Honors & Awards
 ======
 
-
 **Renmin University of China**  
 School of Sociology  
 **Outstanding Graduate Student Scholarship (First-class)**  
@@ -195,13 +194,8 @@ School of Sociology
 *2022*  
 
 **University of Macau**  
-**Postgraduate Research & Conference Funding**  
+**Postgraduate Research Funding**  
 *2020*  
-
-**Renmin University of China**  
-School of Sociology  
-**Outstanding Graduate Student Scholarship (Second-class)**  
-*2021*  
 
 **University of Macau**  
 Department of Government and Public Administration  
@@ -209,14 +203,8 @@ Department of Government and Public Administration
 *2019*  
 
 **Renmin University of China**  
-School of Sociology  
 **Graduate Research Fellowship**  
 *2021*  
-
-**University of Macau**  
-**Outstanding M.P.A. Thesis Award**  
-*2020*  
-- **Thesis:** Influence of Long-term Care Policy on the Social Service System in Macao
 
 ## Professional Affiliations
 
@@ -225,11 +213,6 @@ School of Sociology
 - International Union for the Scientific Study of Population (IUSSP)
 - The Gerontological Society of America (GSA)
 - American Sociological Association (ASA)
-- International Society for Social Policy and Development (ISSPD)
-
-
-
-
 
   
 
