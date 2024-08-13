@@ -12,7 +12,7 @@ Education
 ======
 * Ph.D. in Social Welfare, Renmin University of China, 2025 (expected)
 * Visiting Ph.D. Student at Population Studies Center, University of Pennsylvania, 2022-2024
-* M.P.A in Social Welfare, University of Macau, 2020
+* M.P.A. in Social Welfare, University of Macau, 2020
 
 **Korea Statistics Promotion Institute (KSPI)**  
 Seoul, South Korea  
