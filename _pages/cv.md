@@ -13,8 +13,7 @@ Education
 * Ph.D in Social Welfare, Renmin University of China, 2025 (expected)
 * M.S. in Social Welfare, University of Macau, 2020
 
-*Renmin University of China, Beijing, China, Ph.D. Candidate in Social Welfare*
-*September 2020 – Present
+* Renmin University of China, Beijing, China, Ph.D. Candidate in Social Welfare (September 2020 – Present)
 *Thesis: Intergenerational Reciprocity, Old-age Poverty, and Subjective Well-being  
 *Supervisors: Prof. Emily Hannum (Penn) and Prof. Yanfen Huang (RUC)  
 *Focus: Population Aging, Family Intergenerational Relations, Social Welfare, LMICs
@@ -239,9 +238,10 @@ School of Sociology
 - American Sociological Association (ASA)
 - International Society for Social Policy and Development (ISSPD)
 
-## References
+References
+========
 
-**Emily Hannum, Ph.D.**  
+*Emily Hannum, Ph.D.**  
 Stanley I. Sheerr Term Professor in the Social Sciences  
 Department of Sociology and Population Studies Center  
 University of Pennsylvania  
@@ -249,7 +249,7 @@ Philadelphia, PA, USA
 Phone: +1 215-898-1234  
 Email: hannum@upenn.edu
 
-**Yanfen Huang, Ph.D.**  
+*Yanfen Huang, Ph.D.**  
 Professor of Sociology  
 School of Sociology  
 Renmin University of China  
