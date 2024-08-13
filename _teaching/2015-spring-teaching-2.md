@@ -6,12 +6,3 @@ venue: "Renmin University of China, School of Applied Economics"
 date: 2021-09-01
 location: "Beijing, China"
 ---
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
