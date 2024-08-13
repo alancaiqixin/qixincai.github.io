@@ -7,7 +7,6 @@ date: 2017-09-01
 location: "Taipa, Macao"
 ---
 
-#This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
