@@ -9,15 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+Education
+======
 
-**Renmin University of China**  
-Beijing, China  
-**Ph.D. Candidate in Social Welfare**  
-*September 2020 – Present*  
-- **Thesis:** Intergenerational Reciprocity, Old-age Poverty, and Subjective Well-being  
-- **Supervisors:** Prof. Emily Hannum (Penn) and Prof. Yanfen Huang (RUC)  
-- **Focus:** Population Aging, Family Intergenerational Relations, Social Welfare, LMICs
+Education
+======
+* Ph.D in Social Welfare, Renmin University of China, 2025 (expected)
+* M.S. in Social Welfare, University of Macau, 2020
+
+*Renmin University of China, Beijing, China, Ph.D. Candidate in Social Welfare*
+*September 2020 – Present
+*Thesis: Intergenerational Reciprocity, Old-age Poverty, and Subjective Well-being  
+*Supervisors: Prof. Emily Hannum (Penn) and Prof. Yanfen Huang (RUC)  
+*Focus: Population Aging, Family Intergenerational Relations, Social Welfare, LMICs
 
 **University of Pennsylvania**  
 Philadelphia, PA, USA  
@@ -86,14 +90,17 @@ Tianjin, China
 **Pre-doctoral Summer School in Public Administration and Political Science**  
 *July 2018*  
 
-## Research Interests
+Research Interests
+======
+
 
 - **Field of Study:** Demography, Sociology, Social Policy, Social Welfare
 - **Specialization:** Population Aging, Income, Poverty and Welfare, Longitudinal Data in Aging
 - **Regional Focus:** Low- and Middle-Income Countries (LMICs)
 - **Teaching Areas:** Aging China; Social Policy and Social Care for an Aging Society
 
-## Research & Teaching Experience
+Research & Teaching Experience
+======
 
 **University of Pennsylvania**  
 Population Aging Research Center (PARC)  
@@ -133,7 +140,8 @@ Department of Government and Public Administration
 **Teaching Assistant for Public Sector Organizational Behavior, Public Sector Personnel Management, Understanding Government**  
 *September 2017 – May 2018*  
 
-## Funded Research Projects
+Funded Research Projects
+======
 
 ### Principal Investigator (PI)
 
@@ -147,7 +155,9 @@ Department of Government and Public Administration
 3. The Study of the Long-Term Adjustment Mechanism for the Benefit Amount of Pension Benefit of Social Security Fund of Macao SAR Government, Social Security Fund, Macao SAR Government (408,000 MOP), *Completion date: December 2019*
 4. An Empirical Study of the Development of Social Security Fund, Macao SAR Government, Social Security Fund, Macao SAR Government (20,000 MOP), *Completion date: December 2018*
 
-## Publications
+Publications
+======
+
 
 ### Journals
 
@@ -186,7 +196,9 @@ Department of Government and Public Administration
 9. **Cai Q** and Chan KS (2022). "Governing Big Data for Nationwide-coordinated Social Security System in China," *12th Annual International Conference on Public Administration and Development*, Wuhan, China, April 2022.
 10. **Cai Q** and Chan KS (2022). "Social Media Citizen Engagement in Urban Planning Outcomes in Macao's Urban Master Plan 2020-2040," *18th Annual International Conference on Government, Law, and Social Justice*, London, UK, March 2022.
 
-## Honors & Awards
+Honors & Awards
+======
+
 
 **Renmin University of China**  
 School of Sociology  
@@ -249,64 +261,8 @@ Beijing, China
 Phone: +86 10-6251-1234  
 Email: huang@ruc.edu.cn
 
-**Ken Sin Chan, Ph.D.**  
-Associate Professor  
-Department of Government and Public Administration  
-University of Macau  
-Macao SAR, China  
-Phone: +853 8822 1234  
-Email: kenchan@umac.mo
 
 
-Education
-======
-* Ph.D in Social Welfare, Renmin University of China, 2025 (expected)
-* M.S. in Social Welfare, University of Macau, 2020
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
