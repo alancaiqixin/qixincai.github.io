@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "file.png"
   name             : "Qixin Cai 蔡其新"
   pronouns         : "He/His"
   bio              : "Sociology & Demography Researcher"
