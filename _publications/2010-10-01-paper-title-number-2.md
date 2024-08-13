@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: https://www.mdpi.com/1660-4601/18/7/3508
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+date: 2021-04-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://www.mdpi.com/1660-4601/18/7/3508'
