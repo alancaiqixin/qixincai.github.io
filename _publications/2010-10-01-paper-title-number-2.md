@@ -3,10 +3,10 @@ title: "Engagement of government social media on Facebook during the COVID-19 pa
 collection: publications
 category: manuscripts
 permalink: https://www.mdpi.com/1660-4601/18/7/3508
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: #'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021-04-01
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://www.mdpi.com/1660-4601/18/7/3508'
 citation: 'Pang, P. C.-I., Cai, Q., Jiang, W., & Chan, K. S. (2021). Engagement of Government Social Media on Facebook during the COVID-19 Pandemic in Macao. International Journal of Environmental Research and Public Health, 18(7). https://doi.org/10.3390/ijerph18073508'
 ---
