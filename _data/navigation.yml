@@ -11,7 +11,7 @@ main:
   - title: "Teaching 教学"
     url: /teaching/  
 
-  - title: "Talks 学术会议及演讲"
+  - title: "Talks 学术演讲"
     url: /talks/    
     
   - title: #"Portfolio"
