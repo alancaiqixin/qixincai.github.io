@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Engagement of government social media on Facebook during the COVID-19 pandemic in Macao"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: https://www.mdpi.com/1660-4601/18/7/3508
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'https://www.mdpi.com/1660-4601/18/7/3508'
+citation: 'Pang, P. C.-I., Cai, Q., Jiang, W., & Chan, K. S. (2021). Engagement of Government Social Media on Facebook during the COVID-19 Pandemic in Macao. International Journal of Environmental Research and Public Health, 18(7). https://doi.org/10.3390/ijerph18073508'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Government social media is widely used for providing updates to and engaging with the public in the COVID-19 pandemic. While Facebook is one of the popular social media used by governments, there is only a scant of research on this platform. This paper aims to understand how government social media should be used and how its engagement changes in prodromal, acute and chronic stages of the pandemic. We collected 1664 posts and 10,805 comments from the Facebook pages of the Macao government from 1 January to 31 October 2020. Using word frequency and content analysis, the results suggest that the engagement was relatively low at the beginning and then surged in the acute stage, with a decreasing trend in the chronic stage. Information about public health measures maintained their engagement in all stages, whereas the engagement of other information was dropping over time. Government social media can be used for increasing vigilance and awareness in the prodromal stage; disseminating information and increasing transparency in the acute stage; and focusing on mental health support and recovery policies in the chronic stage. Additionally, it can be a tool for controlling rumors, providing regular updates and fostering community cohesion in public health crises.
