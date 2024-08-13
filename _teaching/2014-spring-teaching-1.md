@@ -7,11 +7,15 @@ date: 2017-09-01
 location: "Taipa, Macao"
 ---
 
-Heading 1
+Public Sector Organizational Behavior
 ======
+*Professor Newman Lam
 
-Heading 2
+Public Sector Personnel Management
 ======
+*Professor Newman Lam
 
-Heading 3
+
+Understanding Government
 ======
+*Professor Newman Lam
