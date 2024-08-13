@@ -10,15 +10,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Social Welfare, Renmin University of China, 2025 (expected)
-* M.S. in Social Welfare, University of Macau, 2020
-
-**University of Pennsylvania**  
-Philadelphia, PA, USA  
-**China Scholar Council Funded Joint Ph.D. Student in Sociology and Demography**  
-**Visiting Ph.D. Student at Population Studies Center**  
-*December 2022 – January 2024*  
-- **Supervisor:** Prof. Emily Hannum
+* Ph.D. in Social Welfare, Renmin University of China, 2025 (expected)
+* M.P.A in Social Welfare, University of Macau, 2020
+* Visiting Ph.D. Student at Population Studies Center, University of Pennsylvania, 2022-2024
 
 **Korea Statistics Promotion Institute (KSPI)**  
 Seoul, South Korea  
@@ -233,24 +227,6 @@ School of Sociology
 - American Sociological Association (ASA)
 - International Society for Social Policy and Development (ISSPD)
 
-References
-========
-
-*Emily Hannum, Ph.D.**  
-Stanley I. Sheerr Term Professor in the Social Sciences  
-Department of Sociology and Population Studies Center  
-University of Pennsylvania  
-Philadelphia, PA, USA  
-Phone: +1 215-898-1234  
-Email: hannum@upenn.edu
-
-*Yanfen Huang, Ph.D.**  
-Professor of Sociology  
-School of Sociology  
-Renmin University of China  
-Beijing, China  
-Phone: +86 10-6251-1234  
-Email: huang@ruc.edu.cn
 
 
 
