@@ -11,8 +11,8 @@ redirect_from:
 Education
 ======
 * Ph.D. in Social Welfare, Renmin University of China, 2025 (expected)
-* M.P.A in Social Welfare, University of Macau, 2020
 * Visiting Ph.D. Student at Population Studies Center, University of Pennsylvania, 2022-2024
+* M.P.A in Social Welfare, University of Macau, 2020
 
 **Korea Statistics Promotion Institute (KSPI)**  
 Seoul, South Korea  
@@ -129,8 +129,8 @@ Funded Research Projects
 
 ### Principal Investigator (PI)
 
-1. PhD Research Project: Intergenerational Reciprocity, Old-age Poverty, and Subjective Well-being From and Beyond the Perspective of Family Structure Heterogeneity, China Scholarship Council (202206360122), *Expected completion date: June 2025*
-2. The Impact of Parental Migration on the Health of School-Aged Left-behind Children, Fundamental Research Funds for the Central Universities, and the Research Funds of Renmin University of China (20,000 RMB), *Expected completion date: December 2024*
+* 1. PhD Research Project: Intergenerational Reciprocity, Old-age Poverty, and Subjective Well-being From and Beyond the Perspective of Family Structure Heterogeneity, China Scholarship Council (202206360122), *Expected completion date: June 2025
+* 2. The Impact of Parental Migration on the Health of School-Aged Left-behind Children, Fundamental Research Funds for the Central Universities, and the Research Funds of Renmin University of China (20,000 RMB), *Expected completion date: December 2024
 
 ### Co-Principal Investigator (Co-PI)
 
