@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Qixin Cai / 蔡其新"
+title                    : "Qixin Cai 蔡其新"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Qixin Cai 蔡其新"
-  pronouns         : # example: "He/his"  
+  pronouns         : # example: "He/His"  
   bio              : "Sociology & Demography Researcher"
   location         : "Beijing; Philadelphia"
   employer         : "RUC & Penn"
