@@ -13,11 +13,6 @@ Education
 * Ph.D in Social Welfare, Renmin University of China, 2025 (expected)
 * M.S. in Social Welfare, University of Macau, 2020
 
-* Renmin University of China, Beijing, China, Ph.D. Candidate in Social Welfare (September 2020 – Present)
-*Thesis: Intergenerational Reciprocity, Old-age Poverty, and Subjective Well-being  
-*Supervisors: Prof. Emily Hannum (Penn) and Prof. Yanfen Huang (RUC)  
-*Focus: Population Aging, Family Intergenerational Relations, Social Welfare, LMICs
-
 **University of Pennsylvania**  
 Philadelphia, PA, USA  
 **China Scholar Council Funded Joint Ph.D. Student in Sociology and Demography**  
