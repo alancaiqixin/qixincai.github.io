@@ -1,5 +1,5 @@
 ---
-title: "Public Sector Organizational Behavior, Public Sector Personnel Management, Understanding Government"
+title: "Public Sector Organizational Behavior"
 collection: teaching
 type: "Undergraduate course"
 venue: "University of Macau, Department of Government and Public Administration"
