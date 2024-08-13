@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Qixin Cai 蔡其新"
-  pronouns         : # example: "He/His"  
+  pronouns         : "He/His"
   bio              : "Sociology & Demography Researcher"
   location         : "Beijing; Philadelphia"
   employer         : "RUC & Penn"
-  uri              : # https://www.aging.upenn.edu/bio/qixin-cai-caiqixin
+  URI              : "https://www.aging.upenn.edu/bio/qixin-cai-caiqixin"
   email            : "caiqixin@sas.upenn.edu" 
 
   # Academic websites
@@ -40,7 +40,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #"academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -62,7 +62,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "https://x.com/CaiQixin"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
