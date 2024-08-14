@@ -11,8 +11,8 @@ main:
   - title: "Teaching 教学"
     url: /teaching/  
     
-  - title: "Projects 项目"
-    url: /portfolio/
+  - title: #"Projects 项目"
+    url: #/portfolio/
 
   - title: "Presentations 演讲"
     url: /talks/    
