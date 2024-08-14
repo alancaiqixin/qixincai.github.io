@@ -14,3 +14,12 @@ Qixin Cai is a Ph.D. candidate in Social Welfare at Renmin University of China. 
 他于2017年获得管理学学士学位，2017年至2025年间分别在澳门大学、中国人民大学和宾夕法尼亚大学深造。2020年取得澳门大学公共行政硕士学位，并预计于2025年获得中国人民大学与宾夕法尼亚大学联合培养博士学位。2017年至2020年期间获得了澳门大学研究生教研奖学金；2022年获得中国人民大学博士生一等学业奖学金；2022年至2024年期间获得国家留学基金委博士联合培养项目全额奖学金；2024年获得意大利威尼斯国际大学老龄化暑期学院奖学金以及韩国国家统计局与联合国人口基金暑期工作坊奖学金。
 
 蔡其新曾受邀到全球多所大学、研究机构及国际组织进行学术访问，包括香港大学、北京大学、清华大学、南京大学、南开大学、复旦大学、上海交通大学、西安交通大学、华东理工大学、浙江大学、中山大学、中国人民大学、国立台湾大学、新加坡南洋理工大学、泰国玛希隆大学、香港浸会大学、瑞士洛桑大学、联合国总部、世界银行总部、美国国家科学院、芝加哥大学、新加坡国立大学、威尼斯国际大学和韩国国家统计局等。他的研究服务对象包括联合国教科文组织、全国人大常委会、澳门特区政府、苏州市相城区度假区（阳澄湖镇）、苏州市人大常委会和广东省贸促会等单位。他还担任跨亚洲、非洲、北美洲、南美洲、欧洲和澳洲顶尖大学的跨学科研究项目的召集人和协调人。蔡其新担任国家留学基金委资助项目（2022--2025）和中国人民大学科学研究基金项目（2022--2024）的主持人，并主要参与了澳门特区政府社会保障基金资助的三项大型研究（2018--2021）。研究成果发表于SSCI/SCI期刊、中文专著，并在APPAM、ARNOVA、IRSPM、PAA、PMRC、SIGMA等重要或顶级国际会议上发表。他还担任《Journal of Happiness Studies》、《Journal of Population Ageing》、《Journal of Aging and Social Change》、《Science of the Total Environment》、《Journal of Gambling Studies》等SSCI期刊及AOM、APHA等顶级国际学术会议的匿名审稿人。此外，独立或参与撰写的智库研究成果或政策咨询报告，获得了副国级党和国家领导的肯定性批示。
+
+====
+Contact 联系方式
+
+No. 59 Zhongguancun Street, Haidian District Beijing, 100872, P.R. China 
+216 McNeil Building, 3718 Locust Walk, Philadelphia, PA 19104-6298, USA 
+Email: alan.cai.qixin@ruc.edu.cn | caiqixin@sas.upenn.edu 
+C1: +86-15217187750 (China) 
+C2: +1(215)252-0952(US)
