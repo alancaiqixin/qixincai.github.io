@@ -17,16 +17,22 @@ Qixin Cai is a Ph.D. candidate in Social Welfare at Renmin University of China. 
 
 Research Projects 研究项目
 ======
-Intergenerational Reciprocity, Old-age Poverty, and Subjective Well-being From and Beyond the Perspective of Family Structure Heterogeneity, Funded by China Scholarship Council(202206360122), Expected completion date: Jun 2025 <br>
+PI, Intergenerational Reciprocity, Old-age Poverty, and Subjective Well-being From and Beyond the Perspective of Family Structure Heterogeneity, Funded by China Scholarship Council(202206360122), Expected completion date: Jun 2025 <br>
 
-The Impact of Parental Migration on the Health of School-Aged Left-behind Children, Funded by Fundamental Research Funds for the Central Universities, and the Research Funds of Renmin University of China (20,000RMB), Expected completion date: Dec 2024
+PI, The Impact of Parental Migration on the Health of School-Aged Left-behind Children, Funded by Fundamental Research Funds for the Central Universities, and the Research Funds of Renmin University of China (20,000RMB), Expected completion date: Dec 2024 <br>
+
+Co-PI, The Review Report of Social Security Fund's Non-Mandatory Central Provident Fund System, Funded by Social Security Fund, Macao SAR Government (408,000 MOP), Completion date: Dec 2020 <br>
+
+Co-PI, The Study of the Long-Term Adjustment Mechanism for the Benefit Amount of Pension Benefit of Social Security Fund of Macao SAR Government, Funded by Social Security Fund, Macao SAR Government (408,000 MOP), Completion date: Dec 2019 <br>
+
+Co-PI, An Empirical Study of the Development of Social Security Fund, Macao SAR Government, Funded by Social Security Fund, Macao SAR Government (20,000 MOP), Completion date: Dec 2018
 
 Research Interests 研究兴趣
 ======
 Field of Study: Demography, Sociology, Social Policy, Social Welfare <br>
 Specialization: Population Aging, Income, Poverty and Welfare, Longitudinal Data in Aging <br>
 Regional focus: Low- and Middle-Income Countries (LMICs) <br>
-Teaching Areas: Aging China; Social Policy and Social Care for an Aging Society
+Teaching Areas: Aging China, Social Policy and Social Care for an Aging Society
 
 Contact 联系方式
 ======
