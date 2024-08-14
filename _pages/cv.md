@@ -9,6 +9,5 @@ redirect_from:
 {% include base_path %}
 
 
-
-  
+You can find my CV here: [Qixin Cai's Curriculum Vitael(../assets/Curriculum Vitae.pdf)
 
