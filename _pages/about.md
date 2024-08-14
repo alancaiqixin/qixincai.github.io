@@ -17,16 +17,16 @@ Qixin Cai is a Ph.D. candidate in Social Welfare at Renmin University of China. 
 
 Research Interests 研究兴趣
 ======
-Field of Study: Demography, Sociology, Social Policy, Social Welfare /
-Specialization: Population Aging, Income, Poverty and Welfare, Longitudinal Data in Aging /
-Regional focus: Low- and Middle-Income Countries (LMICs)/
+Field of Study: Demography, Sociology, Social Policy, Social Welfare <br>
+Specialization: Population Aging, Income, Poverty and Welfare, Longitudinal Data in Aging <br>
+Regional focus: Low- and Middle-Income Countries (LMICs) <br>
 Teaching Areas: Aging China; Social Policy and Social Care for an Aging Society
 
 Contact 联系方式
 ======
-No.59 Zhongguancun Street, Haidian District Beijing, 100872, P.R. China /
-216 McNeil Building, 3718 Locust Walk, Philadelphia, PA 19104-6298, USA /
-Email: alan.cai.qixin@ruc.edu.cn /
-Email: caiqixin@sas.upenn.edu /
-C1: +86-15217187750 (China) /
+No.59 Zhongguancun Street, Haidian District Beijing, 100872, P.R. China <br>
+216 McNeil Building, 3718 Locust Walk, Philadelphia, PA 19104-6298, USA <br>
+Email: alan.cai.qixin@ruc.edu.cn <br>
+Email: caiqixin@sas.upenn.edu <br>
+C1: +86-15217187750 (China) <br>
 C2: +1(215)252-0952(US)
