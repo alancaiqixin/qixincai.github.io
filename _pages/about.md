@@ -17,9 +17,12 @@ Qixin Cai is a Ph.D. candidate in Social Welfare at Renmin University of China. 
 
 Contact 联系方式
 ======
-
 *No.59 Zhongguancun Street, Haidian District Beijing, 100872, P.R. China 
+
 *216 McNeil Building, 3718 Locust Walk, Philadelphia, PA 19104-6298, USA 
+
 *Email: alan.cai.qixin@ruc.edu.cn | caiqixin@sas.upenn.edu 
+
 *C1: +86-15217187750 (China) 
+
 *C2: +1(215)252-0952(US)
