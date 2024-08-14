@@ -26,9 +26,9 @@ author:
   pronouns         : "He/His"
   bio              : "Sociology & Demography Researcher"
   location         : "Beijing; Philadelphia"
-  employer         : "RUC & Penn"
+  employer         : #"RUC & Penn"
   URI              : "https://www.aging.upenn.edu/bio/qixin-cai-caiqixin"
-  email            : "caiqixin@sas.upenn.edu" 
+  email            : #"caiqixin@sas.upenn.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
