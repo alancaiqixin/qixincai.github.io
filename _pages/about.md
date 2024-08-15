@@ -11,7 +11,7 @@ Qixin Cai is a Ph.D. candidate in Social Welfare at Renmin University of China. 
 
 Additionally, Qixin has taken on the role of PI in two ongoing research projects. The first project, titled “Intergenerational Reciprocity, Old-age Poverty Risks, and Subjective Well-being from the Perspective of Family Structure: Findings from three longitudinal cohort studies in middle-income countries (MICs),” is funded by the China Scholarship Council. The second project, “The Impact of Parental Migration on the Health of School-Aged Left-behind Children,” is supported by the Research Funds of Renmin University of China.
 
-蔡其新，中国人民大学博士研究生（2020--2025）和宾夕法尼亚大学社会学与人口学联合培养博士研究生（2022--2024）。现任宾夕法尼亚大学人口老龄化研究中心研究员（2024--）、芝加哥大学健康与社会科学中心CIDMA研究所合作研究员（2023--）、明尼苏达大学老龄化数据密集型研究网络（NDIRA）合作研究员（2024--）、联合国教科文组织包容性政策实验室咨询专家（2023--）以及澳门社会保障学会研究员（2019--）。
+蔡其新，中国人民大学博士研究生（2020--2025）和宾夕法尼亚大学社会学与人口学联合培养博士研究生（2022--2024）（国家留学基金委公派）。现任宾夕法尼亚大学人口老龄化研究中心研究员（2024--）、芝加哥大学健康与社会科学中心CIDMA研究所合作研究员（2023--）、明尼苏达大学老龄化数据密集型研究网络（NDIRA）合作研究员（2024--）、联合国教科文组织包容性政策实验室咨询专家（2023--）以及澳门社会保障学会研究员（2019--）。
 
 他于2017年获得管理学学士学位，2017年至2025年分别在澳门大学、中国人民大学和宾夕法尼亚大学深造。2020年取得澳门大学公共行政硕士学位，并预计于2025年获得中国人民大学与宾夕法尼亚大学联合培养博士学位。2017年至2020年期间获得了澳门大学研究生教研奖学金；2022年获得中国人民大学博士生一等学业奖学金；2022年至2024年期间获得国家留学基金委博士联合培养项目全额奖学金；2024年获得意大利威尼斯国际大学老龄化暑期学院奖学金以及韩国国家统计局与联合国人口基金暑期工作坊奖学金。
 
