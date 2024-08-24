@@ -19,8 +19,6 @@ Additionally, Qixin has taken on the role of PI in two ongoing research projects
 
 蔡其新担任国家留学基金委资助项目（2022–2025）和中国人民大学科学研究基金项目（2022–2024）的主持人，并主要参与了澳门特区政府社会保障基金资助的三项大型研究（2018–2021）。研究成果发表于SSCI/SCI期刊、中文专著，并在APPAM、ARNOVA、IRSPM、PAA、PMRC、SIGMA等重要或顶级国际会议上发表。他还担任超过二十本SSCI期刊及AOM、APHA等顶级国际学术会议的匿名审稿人。此外，独立或参与撰写的智库研究成果或政策咨询报告，获得了副国级党和国家领导的肯定性批示。
 
-%蔡其新担任国家留学基金委资助项目（2022–2025）和中国人民大学科学研究基金项目（2022–2024）的主持人，并主要参与了澳门特区政府社会保障基金资助的三项大型研究（2018–2021）。研究成果发表于SSCI/SCI期刊、中文专著，并在APPAM、ARNOVA、IRSPM、PAA、PMRC、SIGMA等重要或顶级国际会议上发表。他还担任《Journal of Happiness Studies》、《Journal of Population Ageing》、《Journal of Aging and Social Change》、《Science of the Total Environment》、《Journal of Gambling Studies》、《Child Abuse & Neglect》、《Children and Youth Services Review》、《Early Childhood Research Quarterly》、《Aging and Health Research》、《Chinese Journal of Population, Resources and Environment》、《Health & Place》、《Health Policy》、《Journal of Adolescent Health》、《Research in Social Stratification and Mobility》、《Social Science & Medicine》、《Social Science Research》、《SSM - Mental Health》、《SSM - Population Health》、《The Journal of Climate Change and Health》、《The Journal of the Economics of Ageing》、《The Lancet》、《The Lancet Child & Adolescent Health》、《The Lancet Healthy Longevity》、《The Lancet Planetary Health》和《The Lancet Regional Health - Western Pacific》等SSCI期刊及AOM、APHA等顶级国际学术会议的匿名审稿人。此外，独立或参与撰写的智库研究成果或政策咨询报告，获得了副国级党和国家领导的肯定性批示。
-
 Research Projects 研究项目
 ======
 
