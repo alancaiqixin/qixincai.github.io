@@ -44,7 +44,7 @@ Contact 联系方式
 ======
 No.59 Zhongguancun Street, Haidian District Beijing, 100872, P.R. China <br>
 216 McNeil Building, 3718 Locust Walk, Philadelphia, PA 19104-6298, USA <br>
-Email: alan.cai.qixin@ruc.edu.cn <br>
-Email: caiqixin@sas.upenn.edu <br>
+E1: alan.cai.qixin@ruc.edu.cn <br>
+E2: caiqixin@sas.upenn.edu <br>
 C1: +86-15217187750 (China) <br>
 C2: +1(215)252-0952(US)
