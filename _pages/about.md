@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Qixin Cai is a PhD candidate at Renmin University of China, where he is focused on exploring the intricate dynamics of population aging and health in Low- and Middle-Income Countries (LMICs). He holds a Master of Public Administration (M.P.A.) in Social Welfare from the University of Macau, where he also gained valuable experience in administrative, teaching, and research roles.
+Qixin Cai is a Ph.D. candidate at Renmin University of China, where he is focused on exploring the intricate dynamics of population aging and health in Low- and Middle-Income Countries (LMICs). He holds a Master of Public Administration (M.P.A.) in Social Welfare from the University of Macau, where he also gained valuable experience in administrative, teaching, and research roles.
 
 Qixin's research interests encompass a range of critical areas, including population aging, social policy, child welfare, poverty, and longitudinal data analysis. He is committed to employing interdisciplinary approaches to generate insights that inform policymakers, particularly in the context of aging populations.
 As a recognized IPL Expert in Health and Wellbeing, Social Policy, and Social Protection, Qixin is affiliated with the UNESCO Inclusive Policy Lab. 
@@ -15,7 +15,7 @@ Qixin is the Principal Investigator (PI) for two ongoing research projects. The 
 
 Additionally, Qixin has been involved in various prestigious research collaborations as a Research Fellow at the Population Aging Research Center (PARC) at the University of Pennsylvania, as well as a Research Affiliate with the Collaborative for Innovation in Data & Measurement in Aging (CIDMA) at The University of Chicago, the Network for Innovative Methods in Longitudinal Aging Studies (NIMLAS) at the University of Michigan, and the Network for Data-Intensive Research on Aging (NDIRA) at the University of Minnesota.
 
-蔡其新，现为中国人民大学博士研究生（2020--2025）和宾夕法尼亚大学社会学与人口学联合培养博士研究生（2022--2024）（国家留学基金委公派）。现任宾夕法尼亚大学人口老龄化研究中心研究员（2024--），芝加哥大学健康与社会科学中心CIDMA合作研究员（2023--），密歇根大学社会研究所NIMLAS合作研究员（2024--），明尼苏达大学生命周期中心NDIRA合作研究员（2024--），联合国教科文组织包容性政策实验室咨询专家（2023--)。
+蔡其新，现为中国人民大学博士研究生（2020--2025）和宾夕法尼亚大学社会学与人口学联合培养博士研究生（2022--2024）（国家留学基金委公派）。现任宾夕法尼亚大学人口老龄化研究中心研究员（2024--），芝加哥大学健康与社会科学中心CIDMA合作伙伴研究员（2023--），密歇根大学社会研究所NIMLAS合作伙伴研究员（2024--），明尼苏达大学生命周期中心NDIRA合作伙伴研究员（2024--），联合国教科文组织包容性政策实验室咨询专家（2023--)。
 
 他于2017年获得管理学学士学位，2017年至2025年分别在澳门大学、中国人民大学和宾夕法尼亚大学深造，并先后在南开大学、华东理工大学、复旦大学、上海交通大学、西安交通大学、南京大学、洛桑大学、芝加哥大学、威尼斯国际大学、韩国国家统计局专业进修。2020年取得澳门大学公共行政硕士学位，并预计于2025年获得中国人民大学与宾夕法尼亚大学联合培养博士学位（公共管理、社会学及人口学）。
 
